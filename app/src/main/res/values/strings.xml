@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dzikir App</string>
+    <string name="subhanallah">Subhanallah</string>
+    <string name="subhanallah_arab">سُبْحَانَ اللهِ</string>
+    <string name="alhamdulillah">Alhamdulillah</string>
+    <string name="alhamdulillah_arab">اَلْحَمْدُ ِللهِ</string>
+    <string name="lailahaillallah">Lailahaillallah</string>
+    <string name="lailahaillallah_arab">لاَ إِلَهَ إِلاَّ اللهُ</string>
+    <string name="allahuakbar">Allahuakbar</string>
+    <string name="allahuakbar_arab">للهُ أَكْبَرُ</string>
+</resources>
